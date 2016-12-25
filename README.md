@@ -1,5 +1,7 @@
 # Make your pages safer
 
+[![Build Status](https://travis-ci.org/laravelgems/escape.svg?branch=master)](https://travis-ci.org/laravelgems/escape)
+
 This library provides several methods that help you prevent XSS attacks on your pages.
 
 These methods escape untrusted data properly. Just follow simple rules and you're safe.
