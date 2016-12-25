@@ -1,0 +1,26 @@
+{
+    "name": "laravelgems/escape",
+    "description": "Basic methods to escape untrusted data before inserting into different HTML contexts",
+    "homepage": "https://github.com/laravelgems/escape",
+    "version": "1.0.0",
+    "type": "library",
+    "require": {
+        "php": "*",
+        "ext-iconv": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">=4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaravelGems\\Escape\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonid Shumakov",
+            "homepage": "https://github.com/enkarito"
+        }
+    ]
+}
